@@ -1,6 +1,4 @@
-Hi, I’m Terry Lai. 
-
-I’m a seasonal developer with application development experience across many technology environments.
+Hi, I’m Terry Lai, a seasonal developer with application development experience across many technology environments.
 
 I have solid hands-on enterprise development experience in distributed systems including Microservices architecture and cloud computing.
 
